@@ -14,10 +14,9 @@ The **University Management System** is a robust desktop application developed i
 
 ## 👥 Team Members
 
-- **Badal Choudhary** *(Project Lead / Developer)*
-- **Akshit Jindal** *(Developer)*
-- **Rahi Dhillon** *(Developer)*
-- **Aditya Tyagi** *(Developer)*
+- **Ayush Singh** *(Project Lead / Developer)*
+- **Badal Choudhary** *(Developer)*
+- **Dev Parashar** *(Developer)*
 
 ---
 
